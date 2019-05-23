@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\Patryk\Desktop\JiPPLab2\JiPPLab2\main.c(296,12): warning C4477:  „printf”: ciąg formatu „%f” wymaga argumentu typu „double”, ale argument 1 ze zmienną liczbą argumentów ma typ „double *”
+C:\Users\Patryk\Desktop\JiPPLab2\JiPPLab2\main.c(300,12): warning C4477:  „printf”: ciąg formatu „%f” wymaga argumentu typu „double”, ale argument 1 ze zmienną liczbą argumentów ma typ „double *”
+C:\Users\Patryk\Desktop\JiPPLab2\JiPPLab2\main.c(305,12): warning C4477:  „printf”: ciąg formatu „%f” wymaga argumentu typu „double”, ale argument 1 ze zmienną liczbą argumentów ma typ „double *”
+C:\Users\Patryk\Desktop\JiPPLab2\JiPPLab2\main.c(309,12): warning C4477:  „printf”: ciąg formatu „%f” wymaga argumentu typu „double”, ale argument 1 ze zmienną liczbą argumentów ma typ „double *”
+  JiPPLab2.vcxproj -> C:\Users\Patryk\Desktop\JiPPLab2\Debug\JiPPLab2.exe
